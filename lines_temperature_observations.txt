@@ -1,0 +1,4 @@
+       3 temperatur_observation_iqualuit.txt
+       4 temperatur_observation_stjohns.txt
+       4 temperature_observations_vancouver.txt
+      11 total
